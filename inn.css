@@ -682,7 +682,7 @@ section.foodmap{
 
 .QA .box-container .ans{
   position: absolute;
-  top: -10rem;
+  top: -50rem;
 }
 .QA .box-container .QAg:hover .ans{
   position: relative;
